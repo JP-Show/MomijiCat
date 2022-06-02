@@ -6,6 +6,7 @@ Node.js
 Visual Studio Code (ou sua IDE preferida)
 
 Tecnologias que eu utilizei:
+Vite (criar os arquivos base para o react)
 React.TS
 Axios (para a conexão com a api)
 CSS (estilização)
