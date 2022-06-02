@@ -5,7 +5,7 @@ Requisitos:
 Node.js
 Visual Studio Code (ou sua IDE preferida)
 
-Tecnologias que eu utilizei:
+Tecnologias utilizadas:
 Vite (criar os arquivos base para o react)
 React.TS
 Axios (para a conexão com a api)
